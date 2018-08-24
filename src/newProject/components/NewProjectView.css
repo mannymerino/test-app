@@ -1,0 +1,33 @@
+.container {
+    margin: 20px;
+}
+  
+.projectItem {
+    border: 1px dashed #bec6c4;
+    border-radius: 3px;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}  
+
+.newProject {
+    border: 1px dashed orange;
+    border-radius: 3px;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}
+
+.primaryBtn {
+    background-color: #FF7F41;
+    border-radius: 88px; 
+    width: 440px;
+    height: 40px;
+}
+
+.secondaryBtn {
+    border: 1px solid #FF7F41;
+    border-radius: 88px; 
+    width: 440px;
+    height: 40px;
+}

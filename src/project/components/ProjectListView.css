@@ -1,0 +1,19 @@
+.container {
+    margin: 20px;
+}
+  
+.projectItem {
+    border: 1px dashed #bec6c4;
+    border-radius: 3px;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}  
+
+.newProject {
+    border: 1px dashed #FF7F41;
+    border-radius: 3px;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}
